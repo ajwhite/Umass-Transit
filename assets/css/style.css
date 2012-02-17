@@ -1,0 +1,56 @@
+#topSection{
+	height: 250px;
+color: #803714;
+background-image: url(/assets/images/logo2.png);
+background-repeat: no-repeat;
+margin-left: -15px;
+width: 112%;
+background-position: 0 26px;
+	margin-top: -13px;
+	text-align: center;
+}
+
+
+#topSection * {
+
+}
+
+
+
+
+
+/*
+strong { font-weight:bold; }
+a, a:visited, a:active { color:blue; text-decoration:none; outline:none;}
+
+.friendsList{
+	padding:5px 10px; 
+	border: 1px solid gray;
+	width: 230px;
+	background-color:white;
+}
+
+
+.friendEntity{
+	margin:5px;
+}
+
+
+.routeEntity{
+	border: 1px solid lightgray;
+	background-color:#efefef;
+	text-align:center;
+	cursor:pointer;
+	margin-bottom:5px;
+}
+.routeEntity:hover{
+	background-color: #efefef;
+}
+.routeList{
+	margin:5px 10px;
+	width: 190px;
+}
+
+
+pre { font-size: 12px; background-color:lightgray; border:1px solid gray; padding:15px; }
+*/
